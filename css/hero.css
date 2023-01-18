@@ -2,9 +2,14 @@
   padding: 62px 0;
 }
 
+.visually-hidden {
+  position: fixed;
+  transform: scale(0);
+}
+
 .hero__title {
   font-size: 54px;
   text-transform: uppercase;
-  margin: 0 0 34px;
+  margin: 0 0 36px;
   max-width: 904px;
 }

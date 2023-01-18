@@ -29,10 +29,7 @@ img {
   height: auto;
 }
 
-.visually-hidden {
-  position: fixed;
-  transform: scale(0);
-}
+
 
 .container {
   max-width: 1312px;
